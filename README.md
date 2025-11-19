@@ -1,28 +1,19 @@
-# 🐮 Previsão de Vendas de Laticínios (Dairy Sales Prediction)
+# 🐮 Trabalho Final de Machine Learning: Previsão de Vendas de Laticínios
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-Deploy-red)
-![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)
-![Status](https://img.shields.io/badge/Status-Concluído-green)
+## 2. Objetivo Geral
+Este projeto visa desenvolver uma solução completa de Machine Learning para resolver um problema real de **Gestão de Cadeia de Suprimentos (Supply Chain)** na indústria de laticínios.
 
-## 📄 Sobre o Projeto
-Este projeto foi desenvolvido como **Trabalho Final da disciplina de Machine Learning**. 
+Demonstramos neste notebook:
+* **Estruturação do Problema:** Definição clara de um problema de regressão para previsão de demanda.
+* **Pipeline Completo:** Desde a limpeza de dados (Data Cleaning) e Análise Exploratória (EDA) até a modelagem preditiva.
+* **Aplicação Prática:** Avaliação rigorosa de métricas e Deploy do modelo para uso em produção.
 
-O objetivo é criar um modelo preditivo capaz de estimar a demanda de vendas (`Quantity Sold`) de produtos lácteos, auxiliando na gestão de estoque e redução de desperdícios de produtos perecíveis.
+## 3. Definição do Tema e Escopo
+Em conformidade com os requisitos da disciplina, definimos o escopo do projeto da seguinte forma:
 
-O projeto abrange o pipeline completo de Ciência de Dados:
-1.  Coleta e Limpeza de Dados.
-2.  Análise Exploratória (EDA).
-3.  Pré-processamento e Engenharia de Features.
-4.  Treinamento e Otimização de Modelos (Regressão).
-5.  Deploy em Aplicação Web Real-Time.
-
----
-
-## 💼 O Problema de Negócio
-A indústria de laticínios enfrenta um desafio crítico: o **Prazo de Validade (Shelf Life)** curto. 
-* **Estoque em Excesso:** Gera desperdício e prejuízo financeiro por produtos vencidos.
-* **Falta de Estoque:** Gera perda de receita e insatisfação do cliente.
-
-**Solução:** Utilizar dados históricos para prever a quantidade exata de vendas futuras, permitindo um ajuste preciso da produção e logística.
-
+* **Tema Escolhido:** Indústria e Varejo (Otimização de Estoque e Vendas).
+* **Fonte do Dataset:** [Kaggle - Dairy Goods Sales Dataset](https://www.kaggle.com/datasets/suraj520/dairy-goods-sales-dataset).
+    * *Tipo:* Dados públicos e estruturados.
+* **Pergunta de Pesquisa:**
+    > *"É possível prever com precisão a quantidade de produtos lácteos vendidos (demanda futura) com base em dados históricos de preço, marca, validade e localização, permitindo a redução de desperdícios?"*
+* **Técnica Aplicada:** Aprendizado Supervisionado (Regressão).
