@@ -1,4 +1,4 @@
-# 🐮 Trabalho Final de Machine Learning: Previsão de Vendas de Laticínios
+# 🐮 Aplicação de Machine Learning : Sistema de Previsão de Demanda e Otimização de Estoque de Laticínios
 
 ## 1. Objetivo Geral
 Este projeto visa desenvolver uma solução completa de Machine Learning para resolver um problema real de **Gestão de Cadeia de Suprimentos (Supply Chain)** na indústria de laticínios.
