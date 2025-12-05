@@ -1,6 +1,6 @@
 # 🐮 Trabalho Final de Machine Learning: Previsão de Vendas de Laticínios
 
-## 2. Objetivo Geral
+## 1. Objetivo Geral
 Este projeto visa desenvolver uma solução completa de Machine Learning para resolver um problema real de **Gestão de Cadeia de Suprimentos (Supply Chain)** na indústria de laticínios.
 
 Demonstramos neste notebook:
@@ -8,7 +8,7 @@ Demonstramos neste notebook:
 * **Pipeline Completo:** Desde a limpeza de dados (Data Cleaning) e Análise Exploratória (EDA) até a modelagem preditiva.
 * **Aplicação Prática:** Avaliação rigorosa de métricas e Deploy do modelo para uso em produção.
 
-## 3. Definição do Tema e Escopo
+## 2. Definição do Tema e Escopo
 Em conformidade com os requisitos da disciplina, definimos o escopo do projeto da seguinte forma:
 
 * **Tema Escolhido:** Indústria e Varejo (Otimização de Estoque e Vendas).
@@ -17,3 +17,12 @@ Em conformidade com os requisitos da disciplina, definimos o escopo do projeto d
 * **Pergunta de Pesquisa:**
     > *"É possível prever com precisão a quantidade de produtos lácteos vendidos (demanda futura) com base em dados históricos de preço, marca, validade e localização, permitindo a redução de desperdícios?"*
 * **Técnica Aplicada:** Aprendizado Supervisionado (Regressão).
+
+## Link da aplicação em deploy:
+
+https://projeto-machine-learning-zv3kgrxw6dtcgnek3rxbgs.streamlit.app/
+
+## Vídeo Demonstrativo : 
+
+https://github.com/user-attachments/assets/5fc02bec-9a2b-40a8-9f36-a40ca32d4ec5
+
